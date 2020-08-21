@@ -8,7 +8,7 @@ variable "ami_id" {
 }
 
 variable "key_name" {
-  default = "mac-syed-key"
+  default = "scott2"
 }
 
 variable "subnet_id" {
